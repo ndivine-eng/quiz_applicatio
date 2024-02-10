@@ -1,0 +1,31 @@
+[
+    {
+        "question": "What is largest lake in Rwanda?",
+        "option": ["Lake Tana","Lake Nakuru", "Lake Turkana", "Lake Kivu" ],
+        "answer": 3
+    },
+    {
+        "question": "Which tag in html add links?",
+        "option": ["link", "a", "anchor", "href" ],
+        "answer": 1
+    },
+
+    {
+        "question": "Which tag in html add images?",
+        "option": ["img", "image", "picture", "src" ],
+        "answer": 0
+    },
+    {
+        "question": "Which tag in html add video?",
+        "option": ["video", "img", "picture", "src" ],
+        "answer": 0
+    },
+    {
+        "question": "Which tag in html add audio?",
+        "option": ["audio", "img", "picture", "src" ],
+        "answer": 0
+    }
+
+
+]
+
