@@ -39,11 +39,11 @@ const generateQuestion = (index, score) => {
 
             generateQuestion(index + 1, score);
         } else {
-            console.log('Invalid answer! Enter a number which corresponds to the answer of your choice \n');
+            console.log('Invalid answer! Enter a number which corresponds to the possition of the option of your choice \n');
             generateQuestion(index, score);
         }
     });
 };
 
-console.log(`QUIZ \n Select the correct answer for the following Questions \n`);
+console.log(`QUIZ \n Select the correct answer in the following Questions \n`);
 generateQuestion(0, 0);
